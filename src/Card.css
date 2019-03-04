@@ -1,0 +1,26 @@
+h2 {
+    font-size: 1.2em;
+}
+
+.cardBox {
+    background-color: lightblue;
+    width: 240px;
+    text-align: center;
+    border-radius: 5%;
+    margin: 10px;
+    box-shadow: 5px 5px 2px grey;
+    transition: all 0.5s ease-in-out;
+}
+
+.cardBox:hover {
+    transform: scale(1.05);
+    transition: all 0.5s ease-in-out;
+}
+
+.cardBox img {
+    width: 80%;
+}
+
+.cardBox p {
+    padding: 10px;
+}
