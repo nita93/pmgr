@@ -6,6 +6,7 @@ const SearchRobots = ({searchfield, searchValueChange}) => {
         type="search" 
         placeholder="Find a robot" 
         onChange={searchValueChange}
+        className="searchBox"
         />
     )
 }

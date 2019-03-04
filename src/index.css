@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: gray;
 }
 
 code {
@@ -17,4 +18,23 @@ code {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.content {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2.5em;
+  margin-bottom: 15px;
+}
+
+.searchBox {
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  font-size: 1.4em;
+  font-style: italic;
+  background-color: lightgray;
 }
