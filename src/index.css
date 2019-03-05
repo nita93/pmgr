@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: gray;
+  background-color: lightcyan;
 }
 
 code {
@@ -37,4 +37,6 @@ h1 {
   font-size: 1.4em;
   font-style: italic;
   background-color: lightgray;
+  border-color: black;
+  border-radius: 20px;
 }

@@ -4,7 +4,7 @@ const SearchRobots = ({searchfield, searchValueChange}) => {
     return(
         <input 
         type="search" 
-        placeholder="Find a robot" 
+        placeholder="Find your robot" 
         onChange={searchValueChange}
         className="searchBox"
         />
