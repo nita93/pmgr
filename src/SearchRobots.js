@@ -8,7 +8,7 @@ const SearchRobots = ({searchfield, searchValueChange}) => {
         onChange={searchValueChange}
         className="searchBox"
         />
-    )
+    );
 }
 
 export default SearchRobots;
