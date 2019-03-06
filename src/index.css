@@ -39,4 +39,5 @@ h1 {
   background-color: lightgray;
   border-color: black;
   border-radius: 20px;
+  outline: 0px;
 }
