@@ -1,13 +1,13 @@
 {
   "main.css": "/react-robots/static/css/main.c5968b83.chunk.css",
-  "main.js": "/react-robots/static/js/main.e3b96a92.chunk.js",
-  "main.js.map": "/react-robots/static/js/main.e3b96a92.chunk.js.map",
+  "main.js": "/react-robots/static/js/main.c1820f35.chunk.js",
+  "main.js.map": "/react-robots/static/js/main.c1820f35.chunk.js.map",
   "runtime~main.js": "/react-robots/static/js/runtime~main.5d5ed97b.js",
   "runtime~main.js.map": "/react-robots/static/js/runtime~main.5d5ed97b.js.map",
   "static/js/2.c88c70e5.chunk.js": "/react-robots/static/js/2.c88c70e5.chunk.js",
   "static/js/2.c88c70e5.chunk.js.map": "/react-robots/static/js/2.c88c70e5.chunk.js.map",
   "index.html": "/react-robots/index.html",
-  "precache-manifest.5bcbe8ebe1ff8fef27e9995f8c5d3ed8.js": "/react-robots/precache-manifest.5bcbe8ebe1ff8fef27e9995f8c5d3ed8.js",
+  "precache-manifest.b0e358a0b74c9fa1058ae24dfb144a8a.js": "/react-robots/precache-manifest.b0e358a0b74c9fa1058ae24dfb144a8a.js",
   "service-worker.js": "/react-robots/service-worker.js",
   "static/css/main.c5968b83.chunk.css.map": "/react-robots/static/css/main.c5968b83.chunk.css.map"
 }
